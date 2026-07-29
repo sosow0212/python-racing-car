@@ -1,0 +1,9 @@
+from controller.racing_controller import RacingController
+
+
+def main() -> None:
+    RacingController().run()
+
+
+if __name__ == "__main__":
+    main()
