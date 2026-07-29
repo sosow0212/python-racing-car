@@ -1,4 +1,4 @@
-from controller.racing_controller import RacingController
+from python_racing_car.controller.racing_controller import RacingController
 
 
 def main() -> None:
